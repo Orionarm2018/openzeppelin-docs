@@ -6,7 +6,7 @@ original_id: crowdsale_Crowdsale
 
 <div class="contract-doc"><div class="contract"><h2 class="contract-header"><span class="contract-kind">合约</span> Crowdsale</h2><p class="description">Crowdsale is a base contract for managing a token crowdsale, allowing investors to purchase tokens with ether. This contract implements such functionality in its most fundamental form and can be extended to provide additional functionality and/or custom behavior. The external interface represents the basic interface for purchasing tokens, and conform the base architecture for crowdsales. They are *not* intended to be modified / overriden. The internal interface conforms the extensible and modifiable surface of crowdsales. Override the methods to add functionality. Consider using &#x27;super&#x27; where appropiate to concatenate behavior.</p>
 
-<p class="description">Crowdsale合约（译者注：Crowdsale原意为众销，但我们习惯使用ICO这个词）是一个管理 token ICO 的基础合约, 允许创建人使用ether购买通证（译者注：鉴于你知道的原因token以被用痛症替代）。这个合约以最近本的形式实现了这些功能并可以被扩展以提供更多自定义功能。外部接口定义了购买通证和遵循通证发行的基础架构的接口。我们强烈不建议被修改或者重写这些接口。它的外部接口符合可扩展和可修改的surface of crowdsales。重写这些方法可以添加新的功能。使用 &#x27;super&#x27; 关键字以调用重写前的功能。</p>
+<p class="description">Crowdsale合约（译者注：Crowdsale原意为众销，与此对应的是Crowdfound众筹，即我们常说的ICO）是一个管理 token ICO 的基础合约, 允许创建人使用ether购买通证（译者注：鉴于你知道的原因token已被用通证替代）。这个合约以最近本的形式实现了这些功能并可以被扩展以提供更多自定义功能。外部接口定义了购买通证和遵循通证发行的基础架构的接口。我们强烈不建议被修改或者重写这些接口。它的外部接口符合可扩展和可修改的surface of crowdsales。重写这些方法可以添加新的功能。使用 &#x27;super&#x27; 关键字以调用重写前的功能。</p>
 
 <div class="source">源码: <a href="https://github.com/OpenZeppelin/zeppelin-solidity/blob/v1.8.0/contracts/crowdsale/Crowdsale.sol" target="_blank">crowdsale/Crowdsale.sol</a></div>
 
