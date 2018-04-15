@@ -11,7 +11,7 @@ mkdir myproject && cd myproject
 truffle init
 ```
 
-To install the OpenZeppelin library, run the following in your Solidity project root directory:
+在你的Solidity工程根目录执行一下命令安装OpenZeppelin库：
 ```sh
 npm init -y
 npm install -E zeppelin-solidity
