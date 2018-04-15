@@ -3,7 +3,7 @@ id: open-zeppelin
 title: OpenZeppelin
 ---
 
-OpenZeppelin is a library for writing secure [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) on Ethereum.
+OpenZeppelin是一个在以太坊上开发安全[智能合约](https://en.wikipedia.org/wiki/Smart_contract)的库。
 
 With OpenZeppelin, you can build distributed applications, protocols and organizations:
 - using common contract security patterns (See [Onward with Ethereum Smart Contract Security](https://medium.com/bitcorps-blog/onward-with-ethereum-smart-contract-security-97a827e47702#.y3kvdetbz)).
